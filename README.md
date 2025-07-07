@@ -2,7 +2,7 @@
 
 ## Project Name: Waste Container detection using Yolo
 
-**Overview:** This project implements an object detection pipeline using the YOLOv8 model from the Ultralytics library. It includes setting up the environment, training on a custom dataset, and performing inference on test images and test video
+**Overview:** This project implements an object detection pipeline using the YOLOv8 model from the Ultralytics library. It includes setting up the environment, training on a custom dataset, and performing inference on test images and test video. The **Project.ipynb** file is the main file of project and the assignments folder contains the assignments required to do for this project.
 
 **Dataset Link:** https://drive.google.com/drive/folders/1tf70blWnr-JqCh4zkpTNhgKwN3mzbLec?usp=sharing  
 **Results:** https://drive.google.com/drive/folders/1IVQTMe8PEdEVpj1uBONceOzVc8QjVzXU?usp=sharing
